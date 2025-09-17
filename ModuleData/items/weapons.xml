@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+<!-- #region Lances -->
+       <CraftedItem id="wipo_lance_cb"
+              name="{=wipo_w_bkl}Bannered Knight Lance"
+              crafting_template="TwoHandedPolearm"
+              culture="Culture.vlandia"
+              modifier_group="polearm">
+              <Pieces>
+                     <Piece id="spear_blade_5" Type="Blade" scale_factor="100" />
+                     <Piece id="spear_banner_1" Type="Guard" scale_factor="100" />
+                     <Piece id="spear_handle_19" Type="Handle" scale_factor="140" />
+                     <Piece id="spear_pommel_4" Type="Pommel" scale_factor="100" />
+              </Pieces>
+       </CraftedItem>
+<!-- #endregion -->
+<!-- #region 2H Mace -->
+       <CraftedItem id="wipo_2h_hammer"
+              name="{=wipo_w_nhm}Northern Heavy Mace"
+              crafting_template="TwoHandedMace"
+              culture="Culture.sturgia"
+              modifier_group="mace">
+              <Pieces>
+                     <Piece id="wipo_warhammer_head" Type="Blade" scale_factor="100"/>
+                     <Piece id="axe_craft_1_handle" Type="Handle" scale_factor="90"/>
+                     <Piece id="spear_pommel_5" Type="Pommel" scale_factor="100"/>
+              </Pieces>
+       </CraftedItem>
+<!-- #endregion -->
+</Items>

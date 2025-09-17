@@ -1,0 +1,7 @@
+C:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TournamentEquipmentRedone\bin\Win64_Shipping_Client\TournamentEquipmentRedone.dll
+C:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TournamentEquipmentRedone\bin\Win64_Shipping_Client\TournamentEquipmentRedone.pdb
+C:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TournamentEquipmentRedone\TournamentEquipmentRedone\TournamentEquipmentRedone\obj\Debug\TournamentEquipmentRedone.csproj.AssemblyReference.cache
+C:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TournamentEquipmentRedone\TournamentEquipmentRedone\TournamentEquipmentRedone\obj\Debug\TournamentEquipmentRedone.csproj.CoreCompileInputs.cache
+C:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TournamentEquipmentRedone\TournamentEquipmentRedone\TournamentEquipmentRedone\obj\Debug\Tourname.3C05E211.Up2Date
+C:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TournamentEquipmentRedone\TournamentEquipmentRedone\TournamentEquipmentRedone\obj\Debug\TournamentEquipmentRedone.dll
+C:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\TournamentEquipmentRedone\TournamentEquipmentRedone\TournamentEquipmentRedone\obj\Debug\TournamentEquipmentRedone.pdb
