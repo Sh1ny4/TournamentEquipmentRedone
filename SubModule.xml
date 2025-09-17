@@ -25,7 +25,7 @@
 	<Xmls>
 		<!-- tournaments -->
 		<XmlNode>
-			<XmlName id="NPCCharacters" path="Tournaments/tournament"/>
+			<XmlName id="NPCCharacters" path="tournament"/>
 			<IncludedGameTypes>
 				<GameType value = "Campaign"/>
 				<GameType value = "CampaignStoryMode"/>
