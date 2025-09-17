@@ -3,18 +3,18 @@
   "WorkspaceRootPath": "C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TournamentEquipmentRedone||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|c:\\steam\\steamapps\\common\\mount \u0026 blade ii bannerlord\\modules\\tournamentequipmentredone\\tournamentequipmentredone\\tournamentequipmentredone\\tournamentequipmentredone\\getparticipantarmourpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|solutionrelative:tournamentequipmentredone\\tournamentequipmentredone\\getparticipantarmourpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|c:\\steam\\steamapps\\common\\mount \u0026 blade ii bannerlord\\modules\\tournamentequipmentredone\\tournamentequipmentredone\\tournamentequipmentredone\\submodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\tournamentequipmentredone\\submodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|solutionrelative:tournamentequipmentredone\\submodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|c:\\steam\\steamapps\\common\\mount \u0026 blade ii bannerlord\\modules\\tournamentequipmentredone\\tournamentequipmentredone\\tournamentequipmentredone\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
+      "AbsoluteMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\tournamentequipmentredone\\tournamentequipmentredone\\getparticipantarmourpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|solutionrelative:tournamentequipmentredone\\tournamentequipmentredone\\getparticipantarmourpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TournamentEquipmentRedone||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|c:\\steam\\steamapps\\common\\mount \u0026 blade ii bannerlord\\modules\\tournamentequipmentredone\\tournamentequipmentredone\\tournamentequipmentredone\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,12 +32,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TournamentEquipmentRedone",
               "DocumentMoniker": "C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj",
               "RelativeDocumentMoniker": "TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj",
-              "ToolTip": "C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj*",
-              "RelativeToolTip": "TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj*",
+              "ToolTip": "C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj",
+              "RelativeToolTip": "TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-09-17T16:58:12.967Z",
               "EditorCaption": ""
@@ -50,20 +50,20 @@
               "RelativeDocumentMoniker": "TournamentEquipmentRedone\\TournamentEquipmentRedone\\GetParticipantArmourPatch.cs",
               "ToolTip": "C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\GetParticipantArmourPatch.cs",
               "RelativeToolTip": "TournamentEquipmentRedone\\TournamentEquipmentRedone\\GetParticipantArmourPatch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T16:56:21.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Submodule.cs",
               "DocumentMoniker": "C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\Submodule.cs",
               "RelativeDocumentMoniker": "TournamentEquipmentRedone\\Submodule.cs",
-              "ToolTip": "C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\Submodule.cs",
-              "RelativeToolTip": "TournamentEquipmentRedone\\Submodule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\Submodule.cs*",
+              "RelativeToolTip": "TournamentEquipmentRedone\\Submodule.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T16:54:29.084Z",
               "EditorCaption": ""
