@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\tournamentequipmentredone\\tournamentequipmentredone\\getparticipantarmourpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|c:\\steam\\steamapps\\common\\mount \u0026 blade ii bannerlord\\modules\\tournamentequipmentredone\\tournamentequipmentredone\\tournamentequipmentredone\\tournamentequipmentredone\\getparticipantarmourpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|solutionrelative:tournamentequipmentredone\\tournamentequipmentredone\\getparticipantarmourpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|c:\\steam\\steamapps\\common\\mount \u0026 blade ii bannerlord\\modules\\tournamentequipmentredone\\tournamentequipmentredone\\tournamentequipmentredone\\submodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|C:\\Steam\\steamapps\\common\\Mount \u0026 Blade II Bannerlord\\Modules\\TournamentEquipmentRedone\\TournamentEquipmentRedone\\tournamentequipmentredone\\submodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EFA0081-F651-4D46-BF6F-316AC821B894}|TournamentEquipmentRedone\\TournamentEquipmentRedone.csproj|solutionrelative:tournamentequipmentredone\\submodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -61,8 +61,7 @@
               "RelativeToolTip": "TournamentEquipmentRedone\\Submodule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T16:54:29.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T16:54:29.084Z"
             }
           ]
         }
