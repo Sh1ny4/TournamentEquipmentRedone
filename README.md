@@ -1,3 +1,3 @@
-rewrite of the mod for 1.3.0
+A Bannerlord mod that allows for custom tournament equipment loadout
 
 https://www.nexusmods.com/mountandblade2bannerlord/mods/6697
