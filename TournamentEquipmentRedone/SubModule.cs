@@ -8,7 +8,7 @@ namespace TournamentEquipmentRedone
         protected override void OnSubModuleLoad()
         {
             base.OnSubModuleLoad();
-            new Harmony("TournamentEquipmentRedone.TournamentEquipmentRedone").PatchAll();
+            new Harmony("TournamentEquipmentRedone.patches").PatchAll();
         }
     }
 }

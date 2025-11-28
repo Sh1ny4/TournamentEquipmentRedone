@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36717.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentEquipmentRedone", "TournamentEquipmentRedone\TournamentEquipmentRedone.csproj", "{2EFA0081-F651-4D46-BF6F-316AC821B894}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentEquipmentRedone", "TournamentEquipmentRedone.csproj", "{7BC50DE0-B68F-4253-8511-0CBDB2B1D090}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2EFA0081-F651-4D46-BF6F-316AC821B894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2EFA0081-F651-4D46-BF6F-316AC821B894}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2EFA0081-F651-4D46-BF6F-316AC821B894}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2EFA0081-F651-4D46-BF6F-316AC821B894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC50DE0-B68F-4253-8511-0CBDB2B1D090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC50DE0-B68F-4253-8511-0CBDB2B1D090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC50DE0-B68F-4253-8511-0CBDB2B1D090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC50DE0-B68F-4253-8511-0CBDB2B1D090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {52EEC5E4-AEA0-41C4-A002-ED8DBAB19ED3}
+		SolutionGuid = {1AB590DD-0EC7-4DAA-AB02-5587646027DB}
 	EndGlobalSection
 EndGlobal

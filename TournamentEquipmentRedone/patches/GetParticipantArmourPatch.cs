@@ -4,7 +4,7 @@ using TaleWorlds.CampaignSystem.GameComponents;
 using TaleWorlds.CampaignSystem.Settlements;
 using TaleWorlds.Core;
 
-namespace TournamentEquipmentRedone.TournamentEquipmentRedone
+namespace TournamentEquipmentRedone.patches
 {
     [HarmonyPatch(typeof(DefaultTournamentModel), nameof(DefaultTournamentModel.GetParticipantArmor))]
     internal class GetParticipantArmourPatch

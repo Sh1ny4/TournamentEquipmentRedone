@@ -18,7 +18,7 @@
 		<SubModule>
 			<Name value="TournamentEquipmentRedone" />
 			<DLLName value="TournamentEquipmentRedone.dll" />
-			<SubModuleClassType value="TournamentEquipmentRedone.Submodule" />
+			<SubModuleClassType value="TournamentEquipmentRedone.SubModule" />
 			<Tags />
 		</SubModule>
 	</SubModules>
