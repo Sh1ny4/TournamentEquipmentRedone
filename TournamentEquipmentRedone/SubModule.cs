@@ -3,12 +3,12 @@ using TaleWorlds.MountAndBlade;
 
 namespace TournamentEquipmentRedone
 {
-    public class Submodule : MBSubModuleBase
+    public class SubModule : MBSubModuleBase
     {
         protected override void OnSubModuleLoad()
         {
             base.OnSubModuleLoad();
-            new Harmony("TournamentEquipmentRedone.patches").PatchAll();
+            new Harmony("TournamentEquipmentRedone.TournamentEquipmentRedone").PatchAll();
         }
     }
 }
