@@ -43,6 +43,17 @@
 	<xsl:template match="NPCCharacter[@id='tournament_template_khuzait_four_participant_set_v1']"/>
 	<xsl:template match="NPCCharacter[@id='tournament_template_khuzait_four_participant_set_v2']"/>
 	<xsl:template match="NPCCharacter[@id='tournament_template_khuzait_four_participant_set_v3']"/>
+    
+	<xsl:template match="NPCCharacter[@id='tournament_template_nord_one_participant_set_v1']"/>
+	<xsl:template match="NPCCharacter[@id='tournament_template_nord_one_participant_set_v2']"/>
+	<xsl:template match="NPCCharacter[@id='tournament_template_nord_one_participant_set_v3']"/>
+	<xsl:template match="NPCCharacter[@id='tournament_template_nord_two_participant_set_v1']"/>
+	<xsl:template match="NPCCharacter[@id='tournament_template_nord_two_participant_set_v2']"/>
+	<xsl:template match="NPCCharacter[@id='tournament_template_nord_two_participant_set_v3']"/>
+	<xsl:template match="NPCCharacter[@id='tournament_template_nord_four_participant_set_v1']"/>
+	<xsl:template match="NPCCharacter[@id='tournament_template_nord_four_participant_set_v2']"/>
+	<xsl:template match="NPCCharacter[@id='tournament_template_nord_four_participant_set_v3']"/>
+	<xsl:template match="NPCCharacter[@id='tournament_template_nord_four_participant_set_v4']"/>
 
 	<xsl:template match="NPCCharacter[@id='tournament_template_vlandia_one_participant_set_v1']"/>
 	<xsl:template match="NPCCharacter[@id='tournament_template_vlandia_one_participant_set_v2']"/>
